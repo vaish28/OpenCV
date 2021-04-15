@@ -1,6 +1,6 @@
 # OpenCV
 
-## OpenCV
+## Official OpenCV Links
  1. Official Website:- https://opencv.org/
  2. Docs:-  https://docs.opencv.org/master/
  3. Courses:-  https://opencv.org/courses
