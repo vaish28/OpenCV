@@ -1,0 +1,1 @@
+This directory is resource folder containing images and videos
